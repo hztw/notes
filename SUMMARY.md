@@ -6,4 +6,5 @@
    * [Markdown](format/markdown.md)
 * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
 * [qw1](qw)
+   * qw2
 
